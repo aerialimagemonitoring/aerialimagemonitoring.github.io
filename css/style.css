@@ -47,6 +47,7 @@ h3 {
 
 h4 {
   font-weight: bold;
+    font-size: 15 px;
 }
 
 p {
@@ -721,7 +722,7 @@ footer p {
     position: relative;
     padding: 0;
     margin: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .social-icon li {
@@ -733,7 +734,7 @@ footer p {
     color: #666;
     border-radius: 100px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 50px;
     text-decoration: none;
     transition: all 0.4s ease-in-out;
     width: 50px;
@@ -743,11 +744,11 @@ footer p {
     vertical-align: middle;
     position: relative;
     top: 0px;
-    margin: 10px 4px 0px 4px;
+    margin: 20px 500px 20px 20px;
 }
 
 .social-icon li a:hover {
-    background: #1dc9e3;
+    background: #F48601;
     color: #ffffff;
     top: -5px;
 }
