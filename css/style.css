@@ -621,9 +621,9 @@ footer p {
 .modal-dialog .modal-content {
   background-color: #ffffff;
   border: none;
-  border-radius: 2px;
+  border-radius: 10px;
   text-align: left;
-  padding: 10px 50px 600px 20px;
+  padding: 0px 0px 0px 0px;
   position: relative;
   overflow: hidden;
 }
@@ -637,7 +637,7 @@ footer p {
 }
 
 .modal-dialog .close {
-  color: #000000;
+  color: #ffffff;
   font-size: 45px;
   font-weight: 300;
   text-shadow: none;
@@ -791,6 +791,11 @@ footer p {
     color: #ffffff;
     top: -5px;
 }
+
+/*---------------------------------------
+   video              
+-----------------------------------------*/
+
 
 
 /*---------------------------------------
